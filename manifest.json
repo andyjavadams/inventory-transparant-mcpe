@@ -1,0 +1,30 @@
+{
+  "header": {
+    "uuid": "bdbd9771-5872-4f78-ae64-a3e78380886a",
+    "name": "inventory transparant",
+    "description": "nganu, aku turu\n© _andy.offc",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      2,
+      6
+    ]
+  },
+  "modules": [
+    {
+      "description": "ini ga ada pelanginya bang\nmirip yang di mcpc pokoknya bang:v",
+      "version": [
+        0,
+        0,
+        1
+      ],
+      "uuid": "64601d42-7dcc-4853-87ad-d7b056e17dec",
+      "type": "resources"
+    }
+  ],
+  "format_version": 1
+}
